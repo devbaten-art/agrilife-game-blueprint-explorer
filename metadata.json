@@ -1,0 +1,6 @@
+{
+  "name": "AgriLife Game Blueprint Explorer",
+  "description": "An interactive, production-ready Game Design (GDD) & Technical Architecture Document (TDD) portal for a next-generation mobile farming & family simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
